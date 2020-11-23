@@ -1,0 +1,283 @@
+/*##################### Global Styles #####################*/
+
+a {
+    color: #00334d;
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+/*##### Box Styles #####*/
+
+div.box {
+    text-align: center;
+    margin: 24px;
+    padding: 36px 24px 40px 24px;
+    border-radius:7px;
+    background: linear-gradient(135deg,  #00CED1, LightCyan);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15),
+        0 2px 3px 0 rgba(0,0,0,.1);
+    
+}
+
+div.listBox {
+    text-align: center;
+    margin: 24px;
+    padding: 36px 24px 40px 24px;
+    border-radius:7px;
+    background: linear-gradient( #00CED1, #0077b3);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15),
+        0 2px 3px 0 rgba(0,0,0,.1);
+    
+    font-weight: 550;
+    font-size: 24px;
+}
+
+.elementListBorder {
+    border-radius: 7px;
+    padding: 30px 5px 30px 5px;
+    background: linear-gradient(0deg, #00CED1, LightCyan);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15),
+        0 2px 3px 0 rgba(0,0,0,.1);
+}
+
+.musicBox{
+    text-align: center;
+    margin: 24px;
+    padding: 36px 24px 40px 24px;
+    border-radius:7px;
+    background: linear-gradient(180deg, #00CED1, #1de2c7);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15),
+        0 2px 3px 0 rgba(0,0,0,.1);
+    
+    font-weight: 550;
+    font-size: 24px;
+}
+
+.musicListBox {
+    text-align: center;
+    margin: 24px;
+    padding: 36px 24px 40px 24px;
+    border-radius:7px;
+    background: linear-gradient(180deg, #47E7EB, #19E1E6);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15),
+        0 2px 3px 0 rgba(0,0,0,.1);
+    
+    font-weight: 550;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+* {
+    box-sizing: border-box; /*Includes margin and padding when calculating the total width size for each row*/
+}
+
+.blueBackground {
+    width: 100%;
+    margin: auto;
+    padding-top: 4%;
+    padding-bottom: 2%;
+
+    background: linear-gradient(#00CED1,LightCyan);
+    text-align: center;
+}
+
+.chatBoxes {
+    text-align: center;
+    margin: 2% 10%;
+    padding: 15px 15px 25px 15px;
+    border-radius:10px;
+    background: linear-gradient(180deg, #47E7EB, #19E1E6);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15),
+        0 2px 3px 0 rgba(0,0,0,.1);
+    
+    font-weight: 550;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #006699;
+}
+
+.trailerBox {
+    text-align: center;
+    margin: 24px;
+    padding: 20px 15px 20px 15px;
+    border-radius:7px;
+    background: linear-gradient(135deg,  #00CED1, LightCyan);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15),
+        0 2px 3px 0 rgba(0,0,0,.1);
+    
+}
+
+/*##################### Website Title #####################*/
+
+.container {
+    width: 100%;
+    margin: auto;
+    padding-top: 4%;
+    padding-bottom: 2%;
+}
+
+#topHeader-gradient {
+    background: linear-gradient(#00CED1,LightCyan);
+    text-align: center;
+}
+
+.subContainer {
+    width: 100%;
+    margin: auto;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+#bottomHeader-gradient {
+    background: linear-gradient(LightCyan, #00CED1);
+    text-align: center;
+    color: #006699;
+    
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+
+/*##################### Author Title #####################*/
+
+
+div.box .authorText {
+    line-height: 1.5;
+    color: #006699;
+    font-weight: 550;
+   
+}
+
+/*##################### Level List #####################*/
+
+.col-3 {
+    width: 33.3%;
+    margin: 0;
+}
+
+.levelListTitle {
+    font-size: 35px;
+    color:#006699;
+    font-weight: 550;
+}
+
+/*##################### Music List #####################*/
+
+.musicTitle h3 {
+    color: #004466;
+    font-size: 24px;
+    font-weight: 550;
+    text-align: center;
+}
+
+.musicTitle h2{
+    font-size: 35px;
+    color:#006699;
+    font-weight: 550;
+    text-align: center;
+}
+
+.col-2 {
+    padding: 0px 10px;
+    width: 16.6%;
+    margin: 0;
+}
+
+.musicListText {
+    font-size: 24px;
+    color: #004466;
+    font-weight: 550;
+}
+
+/*##################### Description Fields #####################*/
+
+.featuresTitle {
+    font-size: 30px;
+    color: #247DDB;
+}
+
+.blueBackground h3 {
+    color: #834CB3;
+    font-size: 28px;
+}
+
+.col-5 {
+    width: 50%;
+    margin: 0;
+}
+
+/*##################################################*/
+/*##################### Mobile #####################*/
+@media screen and (max-width: 680px){
+    
+    /*##################### Mobile Website Title #####################*/
+
+    .haloLogo {
+        width: 450px;
+    }
+
+    /*##################### Mobile Level List #####################*/
+
+    .col-3 {
+        width: 100%;
+        margin: 0;
+    }
+    
+    div.listBox {
+        padding: 10px 20px 10px 20px;
+        margin: 24px 10px;
+        display: block;
+    }
+
+    .listImages {
+        width: 300px;
+        height: 180px;
+    }
+    
+    .elementListBorder {
+        padding: 0px;
+    }
+
+    /*##################### Mobile Music List #####################*/
+
+    .col-2 {
+        width: 100%;
+        margin: 0;
+    }
+
+    .musicBox, .musicListBox {
+        margin: 24px 0px;
+    }
+
+    /*##################### Mobile Description Fields #####################*/
+
+    .chatBoxes {
+        margin: 24px 15px;
+    }
+
+    .col-5 {
+        width: 100%;
+        margin: 0;
+    }
+
+    .gamePlayVideo {
+        width: 350px;
+    }
+
+    .trailerVideo {
+        width: 390px;
+        margin: 10px;
+    }
+
+    .trailerBox {
+        margin: 24px 0px;
+        padding: 0;
+    }
+}
