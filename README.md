@@ -12,7 +12,7 @@ Remake of https://github.com/RedDogClifford/Halo-3-Favourites using CSS.
 
 ### The whole Website is Mobile Compatable 
 
-Here are some examples from the website,
+Some examples from the website,
 
 
 
