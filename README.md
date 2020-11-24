@@ -14,7 +14,7 @@ https://halo-3-favourites-remake-885a3.firebaseapp.com/
 
 Some examples from the website,
 
-##### (Full screen - Title)
+#### (Full screen - Title)
 <a href="https://github.com/Halo-3-Favourites-Remake/">
   <img src="/halo3favWebsiteImages/s1.jpg" alt="PCTitle" width="800" height="500">
 </a>
