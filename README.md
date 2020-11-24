@@ -15,7 +15,7 @@ https://halo-3-favourites-remake-885a3.firebaseapp.com/
 Some examples from the website,
 
 <a href="https://github.com/Halo-3-Favourites-Remake/">
-  <img src="/halo3favWebsiteImages/s1.jpg" alt="GameStart" width="500" height="500">
+  <img src="/halo3favWebsiteImages/s1.jpg" alt="GameStart" width="800" height="500">
 </a>
 
 <a href="https://github.com/Halo-3-Favourites-Remake/">
