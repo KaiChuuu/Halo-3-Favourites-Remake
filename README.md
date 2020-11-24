@@ -14,12 +14,14 @@ https://halo-3-favourites-remake-885a3.firebaseapp.com/
 
 Some examples from the website,
 
+(Full screen)
 <a href="https://github.com/Halo-3-Favourites-Remake/">
-  <img src="/halo3favWebsiteImages/s1.jpg" alt="GameStart" width="800" height="500">
+  <img src="/halo3favWebsiteImages/s1.jpg" alt="PCTitle" width="800" height="500">
 </a>
 
+(Mobile
 <a href="https://github.com/Halo-3-Favourites-Remake/">
-  <img src="/halo3favWebsiteImages/t1.jpg" alt="GameStart" width="500" height="500">
+  <img src="/halo3favWebsiteImages/t1.jpg" alt="MobileTitle" width="500" height="500">
 </a>
 
 ## What I learned
