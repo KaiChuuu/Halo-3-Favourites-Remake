@@ -38,6 +38,8 @@ I was able to understand how to implement styles and design into a website using
 
 * Different display styles, i.e. block, inline, inline-block
 
+* Spacing and placement of elements
+
 * Specificity in CSS 
 
 * Creating rows and columns in CSS
