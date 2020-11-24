@@ -30,4 +30,18 @@ I recreated this website to learn and experience using CSS.
 
 I was able to understand how to implement styles and design into a website using CSS. 
 
-## Overview of tools used from html
+## Overview of tools used from CSS
+
+* Add colors, font-size, text-align, text-shadow, line-height, font-family, and so forth... to text
+
+* Add background color, linear gradients, and borders.
+
+* Different display styles, i.e. block, inline, inline-block
+
+* Specificity in CSS 
+
+* Creating rows and columns in CSS
+
+* inline/internal/external CSS
+
+* Creating Mobile compatibile Elements 
