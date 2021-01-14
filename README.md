@@ -47,3 +47,7 @@ I was able to understand how to implement styles and design into a website using
 * inline/internal/external CSS
 
 * Creating Mobile compatibile Elements 
+
+## Extra 
+
+* Used firebase to set up a database.
